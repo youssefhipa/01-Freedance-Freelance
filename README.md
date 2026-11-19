@@ -1,3 +1,5 @@
+> **Youssef Hipa’s fork.** I owned **contract-service** (contract lifecycle, milestones, Feign + RabbitMQ saga integration) and built the **Next.js frontend**. See **[MY_CONTRIBUTIONS.md](MY_CONTRIBUTIONS.md)** for details.
+
 # Freelance Marketplace Backend
 
 Microservices backend for a freelance marketplace, using Spring Boot + PostgreSQL + Docker.
